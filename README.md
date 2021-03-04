@@ -1,5 +1,7 @@
 # auth-module_test
 
+This project is a test project attached to Issue: [nuxt-community/auth-module#1079](https://github.com/nuxt-community/auth-module/issues/1079)
+
 ## Build Setup
 
 ```bash
