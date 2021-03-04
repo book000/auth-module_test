@@ -13,6 +13,11 @@ $ yarn dev
 $ yarn build
 $ yarn start
 
+# set github client info
+
+$ export GITHUB_CLIENT_ID=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+$ export GITHUB_CLIENT_SECRET=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 # generate static project
 $ yarn generate
 ```
